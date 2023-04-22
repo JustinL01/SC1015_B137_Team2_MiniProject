@@ -23,13 +23,13 @@ For detailed walkthrough, please view the source code:
 
 * Whether we can predict if someone will cancel their hotel reservation, and if we can identify key factors that contribute to the cancellation of reservations
 
-** Which machine learning technique is the most optimal for the prediction of booking cancellations
+* Which machine learning technique is the most optimal for the prediction of booking cancellations
 
 # Motivation
 
--Ensure hotels optimise their operations and minimise losses due to cancellations
+* Ensure hotels optimise their operations and minimise losses due to cancellations
 
--Help hotels proactive measures to reduce cancellations and improve customer satisfaction. Ultimately, to gain more profits. 
+* Help hotels proactive measures to reduce cancellations and improve customer satisfaction. Ultimately, to gain more profits. 
 
 # Machine Learning Techniques used
 
@@ -46,29 +46,29 @@ For detailed walkthrough, please view the source code:
 
 # Conclusion
 
--Individual variables have low correlation with booking_status, multiple variables have to be used to get good predictions
+* Individual variables have low correlation with booking_status, multiple variables have to be used to get good predictions
 
--Removing certain variables helped improve our techniques' accuracy
+* Removing certain variables helped improve our techniques' accuracy
 
--Multivariate Linear regression do not work well with predicting Binary data
+* Multivariate Linear regression do not work well with predicting Binary data
 
--Logistic regression do not perform well with non-linearly correlated variables
+* Logistic regression do not perform well with non-linearly correlated variables
 
--Random Forest Classification can be used to find which variables are the best predictors
+* Random Forest Classification can be used to find which variables are the best predictors
 
--The best variables to be used for predicting booking_status are the average price per room and lead time
+* The best variables to be used for predicting booking_status are the average price per room and lead time
 
 
 # What did we learn from the project
--New Machine learning techniques like Multivariate linear regression, Logistic Regression, K-Nearest-Neighbour and Random Forest
+* New Machine learning techniques like Multivariate linear regression, Logistic Regression, K-Nearest-Neighbour and Random Forest
 
--Handling imbalanced datasets using random forest
+* Handling imbalanced datasets using random forest
 
--Concepts about F1 Score and accuracy
+* Concepts about F1 Score and accuracy
 
--Follow a systematic approach and not based on our intuition
+* Follow a systematic approach and not based on our intuition
 
--Collaborating using GitHub and Google Colaboratory
+* Collaborating using GitHub and Google Colaboratory
 
 
 # References
