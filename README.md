@@ -3,10 +3,10 @@
 # About
 
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on hotel reservations from the Hotel Reservations Dataset.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on hotel reservations from the [Hotel Reservations Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset).
 
 For detailed walkthrough, please view the source code:
-Code
+[Code](https://github.com/JustinL01/SC1015_B137_Team2_MiniProject/blob/main/hotel_reservation_miniproj.ipynb)
 
 # Contributors
 
