@@ -33,15 +33,15 @@ For detailed walkthrough, please view the source code:
 
 # Machine Learning Techniques used
 
-1.Multivariate linear regression
+1. Multivariate linear regression
 
-2.Logistic regression
+2. Logistic regression
 
-3.K-nearest-neighbour (KNN)
+3. K-nearest-neighbour (KNN)
 
-4.Decision Tree and Confusion Matrix
+4. Decision Tree and Confusion Matrix
 
-5.Random Forest Classification
+5. Random Forest Classification
 
 
 # Conclusion
