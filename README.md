@@ -21,9 +21,9 @@ For detailed walkthrough, please view the source code:
 
 # Problem Definition
 
-*Whether we can predict if someone will cancel their hotel reservation, and if we can identify key factors that contribute to the cancellation of reservations
+* Whether we can predict if someone will cancel their hotel reservation, and if we can identify key factors that contribute to the cancellation of reservations
 
-*Which machine learning technique is the most optimal for the prediction of booking cancellations
+** Which machine learning technique is the most optimal for the prediction of booking cancellations
 
 # Motivation
 
