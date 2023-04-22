@@ -4,6 +4,7 @@
 
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on hotel reservations from the Hotel Reservations Dataset.
+
 For detailed walkthrough, please view the source code:
 Code
 
@@ -14,6 +15,8 @@ Code
 @Shygan - Shaun
 
 @JustinL01 - Justin
+
+
 
 
 # Problem Definition
